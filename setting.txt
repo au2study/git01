@@ -1,1 +1,1 @@
-key=a12345
+key=a12345git push -u origin main
